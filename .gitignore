@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+outbox/
+scraped/
+data/
+costs.csv
+.DS_Store
